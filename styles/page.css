@@ -1,0 +1,33 @@
+/* page.css */
+body {
+    display: box;
+    margin: 0 auto;
+    padding: 25px 20px;
+    font-size: 1.5rem;
+    width: 80%;
+    background-color: beige;
+}
+h1 {
+    color: black;
+    background-color: lightskyblue;
+    text-align: center;
+    margin: 16px;
+    font-family: Arial, sans-serif;
+    padding: 0.5em;
+    border-radius: .6em;
+}
+h3, h4 {
+    color: black;
+    background-color: aquamarine;
+    text-align: center;
+    margin: 16px;
+    font-family: Arial, sans-serif;
+    padding: 0.5em;
+    border-radius: .6em;
+}
+ol li, ul li {
+    margin: 10px;
+    background-color: lavender;
+
+}
+
